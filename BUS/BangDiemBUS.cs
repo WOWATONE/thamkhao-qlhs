@@ -5,6 +5,7 @@ using QLHS.DAL;
 using QLHS.DTO;
 using Util;
 
+//Comment ad 10h46 27/02/2014
 namespace QLHS.BUS
 {
     public class BangDiemBUS
